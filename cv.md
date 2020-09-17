@@ -1,5 +1,5 @@
 # Egor Bogatko
-Phone number: +375(33) 901-24-84 | Email: bgtk09@gmail.com itbgtk09@gmail.com | 
+Phone number: +375(33) 901-24-84 | Email: bgtk09@gmail.com itbgtk09@gmail.com | date of birth: 09.03.2001
 
 ### About me
 Goal: to become a qualified front-end developer.
