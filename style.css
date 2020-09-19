@@ -1,0 +1,53 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+}
+header, section {
+  width: 1024px;
+  margin: 0 auto;
+}
+section {
+  margin-bottom: 16px;
+}
+.title {
+  margin: 24px 0 16px 0;
+  font-size: 24px;
+}
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eaecef;
+  margin-bottom: 16px;
+}
+.header .img-block {
+  width: 120px;
+}
+.section__contact-me .contact-me {
+  font-size: 20px;
+  margin-bottom: 16px;
+  font-weight: bold;
+}
+.section__contact-me .contact-me span {
+  color: blue;
+  font-weight: normal;
+}
+.about-me p {
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+.about-me p span {
+  font-size: 20px;
+  text-decoration: underline;
+}
+.skills ul, .education ul {
+  padding-left: 30px;
+}
